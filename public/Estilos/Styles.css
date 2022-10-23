@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+.Color_banner{
+    background-color: #003F88;
+}
+.Imagen_Header{
+    background:url(../Recursos/Imagenes/Banner_gym_franja.png);
+    height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.UserIcon_estilo{   
+    border: none;
+    background: none;    
+}
+.UserIcon_position{
+    height: 35px;
+    position: absolute;
+    float: right;
+    left: 95%;
+    top: 1.3%;
+}
+.Titulo{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 70px;
+    position: absolute;
+    float: right;
+    left: 37%;
+    right: 0;
+    bottom: 40%;
+    text-align: center;
+}
+.logoumng{
+    height: 90px;
+    position: absolute;
+    float: right;
+    left: 63%;
+    right: 0;
+    bottom: 74%;
+}
+.navbar{
+    height: 50px;
+    width: fit-content;
+    background-color: #003F88;
+}
+.TextoSub{
+    font-family: 'Poppins', sans-serif;
+    font-weight:bold;
+    font-size: 16px;
+}
+.OpcPagPrinci{
+    border:none;
+    background-color: none;
+    background: none;
+}
+.OpcPagPrinci:hover{
+    background-color: #e4e1e1;
+    border-radius: 5px;
+}
